@@ -1,0 +1,10 @@
+{
+  "name": "darkcharmdivaa",
+  "version": "1.0.0",
+  "description": "Profile repo for darkcharmdivaa showcasing projects in AI, Tokenization, and Bitcoin, including edge-nlp-tools, ai-chat-visualizer, token-audit-cli, nft-tracker-dashboard, and btc-payment-monitor. Central hub for open-source experiments and interactive analytics.",
+  "main": "bin/autoinit.js",
+  "bin": { "autoinit": "./bin/autoinit.js" },
+  "scripts": { "start": "node bin/autoinit.js" },
+  "dependencies": { "axios": "^1.6.2", "inquirer": "^9.2.0" },
+  "license": "MIT"
+}
